@@ -91,6 +91,3 @@ python mygame1.py
 - 게임 구조와 기본 코드: 위에 적은 유튜브 영상을 참고했습니다.
 - 게임 이미지(캐릭터, 지형, 함정, 배경): 튜토리얼에서 제공한 [에셋](https://github.com/techwithtim/Python-Platformer/tree/main/assets)을 사용했습니다. 에셋의 라이선스는 원작자의 안내를 따릅니다.
 
-## 만든 사람
-
-이하진 · 대구가톨릭대학교
